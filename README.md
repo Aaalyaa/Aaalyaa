@@ -1,4 +1,4 @@
-# Hi there, I'm Alyaa! 👋
+# Hi there, I'm Putri Alya Shafiqa! 👋
 
 🎓 **Vocational High School Student (Year 3) — Software Engineering Major**  
 💻 Passionate about **Web Development**, interested in **Data Science** & **Cyber Security**
@@ -28,8 +28,8 @@
 ---
 
 ## 🌐 Connect with me!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]
+![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white](https://www.instagram.com/putrialya.06?igsh=cHBveXlyMnd3bHZm))
+![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/putri-shafiqa-289b19267/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bs5nBJ6loRhKS%2FsKv98JltQ%3D%3D))
 
 ---
 
