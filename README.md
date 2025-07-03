@@ -35,7 +35,8 @@
 
 ## 💡 Quote
 > _ꦈꦫꦶꦥ꧀ꦆꦏꦸꦈꦫꦸꦥ꧀꧉_ 
-> **(Urip iku urup.)**  
+> **(Urip iku urup.)**
+>   
 > _("Life is to bring light" — Javanese proverb)_
 
 ---
