@@ -14,9 +14,7 @@
 ---
 
 ## 🌱 Currently Learning
-- JavaScript (Intermediate)
 - Laravel (Fundamental)
-- CodeIgniter (Intro Level)
 
 ---
 
