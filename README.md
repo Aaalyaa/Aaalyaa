@@ -6,10 +6,9 @@
 ---
 
 ## 🛠️ Skills
-- Web Development (with Native PHP)
-- HTML, CSS, JavaScript (basic)
-- PHP Native (beginner-level)
-- C++ / Java (basic syntax)
+- Front-End: HTML, CSS / Bootstrap (Framework), JavaScript 
+- Back End : PHP Native, Laravel 9 & 10
+- C++, Python, Java (basic syntax)
 
 ---
 
