@@ -13,7 +13,8 @@
 ---
 
 ## 🌱 Currently Learning
-- Prompt Engineering : Spec-Driven Development
+- Prompt Engineering
+- C basic
 
 ---
 
