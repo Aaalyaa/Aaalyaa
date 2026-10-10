@@ -1,6 +1,6 @@
 # Hi there, I'm Putri Alya Shafiqa! 👋
 
-🎓 Fresh graduate from **Vocational High School — Software Engineering Major**  
+🎓 Undergraduate student from **Electronic Engineering Polytechnic Institute in Surabaya — Associate Degree of Informatics Engineering**  
 💻 Passionate about **Web Development**, interested in **Artificial Intelligence Engineering** & **Cyber Security**
 
 ---
