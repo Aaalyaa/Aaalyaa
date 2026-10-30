@@ -8,7 +8,7 @@
 ## 🛠️ Skills
 - Front-End: HTML, CSS / Bootstrap (Framework), JavaScript 
 - Back End : PHP Native, Laravel 9 & 10
-- C++, Python, Java (basic syntax)
+- C, C++, Python, Java (basic syntax)
 
 ---
 
@@ -19,9 +19,9 @@
 ---
 
 ## 📚 Interests
-- Web/App Application Development
+- Web/App Application Development with JavaScript
 - Artifical Intelligence Engineering (planned to explore)
-- Cyber Security (planned to explore)
+- Machine Learning Engineering (planned to explore)
 
 ---
 
